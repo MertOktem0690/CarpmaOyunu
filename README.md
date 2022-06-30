@@ -1,2 +1,0 @@
-# CarpmaOyunu
- Çarpma Oyunu
